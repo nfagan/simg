@@ -5,6 +5,6 @@ simg: A simple fixation task template based on the `ptb` library.
 We use this as a demonstration of a state-machine program built with the `ptb` library. Image presentation, success-feedback presentation, and error-feedback presentation are each associated with a state (concretely, a `ptb.State` object) which performs some action(s) a) upon entry into the state, b) repeatedly, while the state is executing, and c) upon exit out of the state. These otherwise independent states are sequenced to create and control the flow of the task.
 
 This code depends on:
-* [https://github.com/nfagan/ptb](ptb)
-* [http://psychtoolbox.org](Psychtoolbox)  
-* [https://github.com/nfagan/shared_utils](shared_utils)
+* [ptb](https://github.com/nfagan/ptb)
+* [Psychtoolbox](http://psychtoolbox.org)
+* [shared_utils](https://github.com/nfagan/shared_utils))
