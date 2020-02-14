@@ -7,4 +7,6 @@ We use this as a demonstration of a state-machine program built with the `ptb` l
 This code depends on:
 * [ptb](https://github.com/nfagan/ptb)
 * [Psychtoolbox](http://psychtoolbox.org)
-* [shared_utils](https://github.com/nfagan/shared_utils))
+* [shared_utils](https://github.com/nfagan/shared_utils)
+
+Make sure these libraries are downloaded and added to MATLAB's search path before running this example.
